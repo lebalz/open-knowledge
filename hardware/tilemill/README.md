@@ -18,13 +18,13 @@ image.
 ## Installation
 
 Download and install TileMill according to the instructions on the
-[website](https://tilemill-project.github.io/).
+[website](https://tilemill-project.github.io/tilemill/docs/install/).
 
 ## GIS data
 
 The easiest way to acquire vector map data is to download them from
 a German company named [Geofabrik](https://www.geofabrik.de/). They
-have a [download page](http://download.geofabrik.de/) where you can
+have a [download page](https://download.geofabrik.de/europe/) where you can
 download .shp files for various regions of earth. Download the
 appropriate region and unpack it.
 The zip folder contains shapefiles for various different features, like
